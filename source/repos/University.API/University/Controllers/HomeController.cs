@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace University.Controllers
 {
+    //este es el from controller
     public class HomeController : Controller
     {
         public ActionResult Index()
